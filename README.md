@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Uederson Ferreira!</h1>
 
 <p align="center">
-  🌱 Engenheiro Ambiental | ⚖️ Advogado | 👨‍💻 Desenvolvedor Web3 em transição de carreira<br>
+  🌱 Engenheiro Ambiental | ⚖️ Advogado | 👨‍💻 Desenvolvedor Web2 e Web3 em transição de carreira<br>
   💼 Apaixonado por tecnologia, inovação e soluções que transformam o mundo.<br>
   Dev em transição | Blockchain 💎 | Web3 | Rust | Python | TypeScript | Construindo o futuro com código 🚀
 </p>
