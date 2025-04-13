@@ -3,14 +3,14 @@
 <p align="center">
   🌱 Engenheiro Ambiental | ⚖️ Advogado | 👨‍💻 Desenvolvedor Web3 em transição de carreira<br>
   💼 Apaixonado por tecnologia, inovação e soluções que transformam o mundo.<br>
-  Dev em transição | Blockchain 💎 | Web3 | Rust & TypeScript | Construindo o futuro com código 🚀
+  Dev em transição | Blockchain 💎 | Web3 | Rust | Python | TypeScript | Construindo o futuro com código 🚀
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou um profissional multidisciplinar em plena transição de carreira para o universo da tecnologia. Participei ativamente do **Dev30k da NearX**, desenvolvendo soluções em blockchain com foco na rede **Stellar**. Também venho construindo projetos em **MultiversX**, **Rust**, **TypeScript** e **React**.
+Sou um profissional multidisciplinar em plena transição de carreira para o universo da tecnologia. Participei ativamente do **Dev30k da NearX**, desenvolvendo soluções em blockchain com foco na rede **Stellar**. Também venho construindo projetos em **MultiversX**, **Rust**, **Python**, **TypeScript** e **React**.
 
 Sou movido por curiosidade, aprendizado contínuo e propósito. Me considero **estudioso, autodidata e comprometido**, com facilidade em aprender rápido e uma dedicação profunda em tudo que me proponho a fazer.
 
